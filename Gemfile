@@ -15,6 +15,11 @@ end
 
 gem 'carrierwave'
 
+gem 'mini_magick', '3.5.0'
+
+
+gem 'foreigner'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
